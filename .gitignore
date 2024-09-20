@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Temp files
+*.csv
+*.bin
+
+# Trained Models
+*.joblib
+
 # Distribution / packaging
 .Python
 build/

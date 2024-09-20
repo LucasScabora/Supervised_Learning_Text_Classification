@@ -1,0 +1,11 @@
+jupyterlab==4.2.5
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+nltk==3.9.1
+matplotlib==3.9.2
+fasttext==0.9.3
+seaborn==0.13.2
+lightgbm==4.5.0
+lime==0.2.0.1
+memory-profiler==0.60.0
