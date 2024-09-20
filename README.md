@@ -22,3 +22,5 @@ Download `df_file.csv` from [Kaggle Datasets](https://www.kaggle.com/datasets/ta
 ## Train and Evaluate Classification
 
 This [Jupyter Notebook](./Main_Explore_and_Train_Model.ipynb) provides an end-to-end example of preparing a predictor for an unstructured text dataset.
+
+For Examples of Explainability, please refer to the following [Folder](./out/explainability_examples/).
