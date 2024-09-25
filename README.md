@@ -1,6 +1,6 @@
 # Supervised Learning Text Classification
 
-Example of Text Classification (i.e., Supervised Learning) covering PreProcess (e.g., clean up and validations), Training and Model Exploration, Final Validation, and Explainability.
+Example of an end-to-end Text Classification (i.e., Supervised Learning) employing Topic Modelling and covering the steps of PreProcess (e.g., clean up and validations), Training and Model Exploration, Final Validation, and Explainability.
 
 ## Setup Virtual Python Environment
 
